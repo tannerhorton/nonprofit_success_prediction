@@ -69,10 +69,8 @@ Save and export your results to an HDF5 file. Name the file AlphabetSoupCharity_
 Step 4: Write a Report on the Neural Network Model
 For this part of the assignment, you’ll write a report on the performance of the deep learning model you created for Alphabet Soup.
 
-## Results 
-Using bulleted lists and images to support your answers, address the following questions:
-
 ## Conclusion 
+Using bulleted lists and images to support your answers, address the following questions:
 What variable(s) are the target(s) for your model?
 What variable(s) are the features for your model?
 What variable(s) should be removed from the input data because they are neither targets nor features?
