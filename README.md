@@ -1,4 +1,4 @@
-# Non Profit Success Prediction 
+# Predicting the Success of Non-Profit Proposals Using Machine Learning 
 Create a binary classifier that can predict whether applicants will be successful if funded by nonprofit foundation
 
 ## Background
